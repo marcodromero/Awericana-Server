@@ -1,5 +1,5 @@
 
-<img src='./client/public/assets/logobig.svg' alt="awericana" style="align-items: center">
+<img src='./logobig.svg' alt="awericana" style="align-items: center">
 
 # Awericana - E-commerce de Compra Venta de Ropa Usada
 
